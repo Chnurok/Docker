@@ -1,6 +1,6 @@
 <?php
 $redis = new Redis();
-$redis->connect('10.128.0.7', 6379);
+$redis->connect('10.156.0.5', 6379);
 
 if ($_POST) {
     $num = $_POST["num"];
