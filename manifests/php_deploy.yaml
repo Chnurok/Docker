@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: php
-        image: khayrulinnikita/php_app:latest
+        image: smusevmikhail/php2:latest
